@@ -1,0 +1,7 @@
+timestamp,decision,optionA,A_happiness,A_stress,A_regret,optionB,B_happiness,B_stress,B_regret
+2025-11-13T12:00:41.548643,Should I accept a job in Bangalore?,"move to bangalore:higer pay, more rent",0,0,0,"stay here:comfortable,close to family",20,0,0
+2025-11-13T12:01:50.520939,Should I accept a job in Bangalore?,"Move to Bangalore for a higher paying job with good growth opportunities. 
+I can learn new things and meet new people. 
+But relocation might feel stressful in the beginning.",40,20,0,"Stay in my current city where I feel comfortable and close to family. 
+Less stress but I might miss a big career opportunity and regret it later.
+",40,20,60
